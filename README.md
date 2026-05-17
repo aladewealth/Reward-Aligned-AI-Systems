@@ -182,13 +182,14 @@ Potential future areas of exploration include:
 ---
 
 # Repository Structure
-
+```text
 .
 ├── README.md
 ├── paper.md
 ├── diagrams/
 ├── references/
 └── examples/
+```
 
 ---
 
